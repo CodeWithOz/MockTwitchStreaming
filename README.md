@@ -1,6 +1,6 @@
-# Mock Twitch Client
+# Mock Twitch Streaming Client
 
-This app mocks the Twitch service. It is part of Udemy's
+This app mocks the Twitch streaming service. It is part of Udemy's
 [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
 course taught by Stephen Grider.
 
